@@ -4,7 +4,7 @@
 
 <h3 align="center">Junior Software Developer</h3>
 <br>
-<<<<<<< HEAD
+
 
 - 🔭 I'm a student of Computer Programming.
 
@@ -12,16 +12,8 @@
 
 - 📫 How to reach me **feyza.kaymakci@hotmail.com**
 
-<br>
-=======
-
-### Reach out to me
-
-[<img width="22" src="https://cdn.simpleicons.org/linkedin/[COLOR]" />][linkedin] [<img width="22" src="https://cdn.simpleicons.org/medium/[COLOR]" />][medium] [<img width="22" src="https://cdn.simpleicons.org/github/[COLOR]" />][github]
 <br> 
 
-### Tech I use
->>>>>>> 5c30968ea85105314cfb64cbffcbeec95f4400dc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
