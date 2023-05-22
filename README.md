@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Feyza  </h1> 
 
-<h3 align="center">Junior .Net Developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=feyzakaymakci&color=blue)
